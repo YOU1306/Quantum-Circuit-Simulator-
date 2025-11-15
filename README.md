@@ -82,23 +82,6 @@ Quantum-Circuit-Simulator/
 |0> ---------[X]--
 
 
-This produces the entangled Bell state:
-
-∣
-00
-⟩
-+
-∣
-11
-⟩
-2
-2
-	​
-
-∣00⟩+∣11⟩
-	​
-
-
 You can simulate this using:
 
 applyGate(H, 0);
