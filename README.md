@@ -1,4 +1,5 @@
 # Project1
+(Hi, I am Rajat)
 🚀 Quantum Circuit Simulator (C/CUDA + Interactive Visualization)
 
 A high-performance Quantum Circuit Simulator implementing core quantum-computing operations using a C/CUDA backend, combined with an interactive visualization layer for building, testing, and understanding quantum circuits.
